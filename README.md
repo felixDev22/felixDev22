@@ -1,4 +1,4 @@
-\
+
 <h1 align="center">Hi 👋, I'm Felix N. Nyamai</h1>
 <h3 align="center">A Frontend developer from Nairobi, Kenya</h3>
 <img
