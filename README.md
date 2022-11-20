@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Felix N. Nyamai</h1>
-<h3 align="center">A passionate frontend developer from Nairobi, Kenya</h3>
+<h3 align="center">A Frontend developer from Nairobi, Kenya</h3>
 <img
   src="https://tenor.com/bN65M.gif" alt=“Coding </img>
 
@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/@monzo200" target="blank"><img src="https://img.shields.io/twitter/follow/@monzo200?logo=twitter&style=for-the-badge" alt="@monzo200" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby on Rails, React**
+- 🌱  I’m currently learning Front End Web Development
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯  I’m looking to collaborate on HTML, CSS,and JS projects
 
-- 📫 How to reach me **felixnzomo@gmail.com**
+- 📫  How to reach me **felixnzomo@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
