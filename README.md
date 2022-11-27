@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi 👋, I'm Felix N. Nyamai</h1>
-<h3 align="left">A Frontend developer from Nairobi, Kenya</h3>
+<h4 align="left">A Frontend developer from Nairobi, Kenya</h4>
 
 ![](https://media.tenor.com/7Tu-pBzg0_kAAAAC/programming.gif)
 
