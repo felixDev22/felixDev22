@@ -1,8 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Felix N. Nyamai</h1>
-<h3 align="center">A Frontend developer from Nairobi, Kenya</h3>
-<img
-  src="https://tenor.com/bN65M.gif" alt=“Coding </img>
+<h1 align="left">Hi 👋, I'm Felix N. Nyamai</h1>
+<h3 align="left">A Frontend developer from Nairobi, Kenya</h3>
+
+![](https://media.tenor.com/7Tu-pBzg0_kAAAAC/programming.gif)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felixdev22&label=Profile%20views&color=0e75b6&style=flat" alt="felixdev22" /> </p>
 
