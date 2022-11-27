@@ -13,7 +13,7 @@
 
 - 🌱  I’m currently learning Front End Web Development
 
-- 👯  I’m looking to collaborate on HTML, CSS,and JS projects
+- 👯  I’m looking to collaborate on HTML, CSS, and JS projects
 
 - 📫  How to reach me **felixnzomo@gmail.com**
 
