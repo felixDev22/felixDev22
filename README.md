@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/@monzo200" target="blank"><img src="https://img.shields.io/twitter/follow/@monzo200?logo=twitter&style=for-the-badge" alt="@monzo200" /></a> </p>
 
-- 🌱  I’m currently learning Front End Web Development
+- 🌱  I’m currently learning HTML & CSS, Ruby Databases, Ruby on Rails, JavaScript, React & Redux, Algorithms, Data Structures  @ Microverse
 
 - 👯  I’m looking to collaborate on HTML, CSS, and JS projects
 
