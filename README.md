@@ -1,5 +1,6 @@
 
-<h1 align="left">Hi 👋, I'm Felix N. Nyamai</h1>
+<h1 align="left">Hi 👋,
+ <br> I'm Felix N. Nyamai</h1>
 <h4 align="left">A Frontend developer from Nairobi, Kenya</h4>
 
 ![](https://media.tenor.com/7Tu-pBzg0_kAAAAC/programming.gif)
@@ -9,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felixdev22" alt="felixdev22" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@monzo200" target="blank"><img src="https://img.shields.io/twitter/follow/@monzo200?logo=twitter&style=for-the-badge" alt="@monzo200" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@monzo200" target="blank"><img src="https://img.shields.io/twitter/follow/@monzo200? logo=twitter&style=for-the-badge" alt="@monzo200" /></a> </p>
 
 - 🌱  I’m currently learning HTML & CSS, Ruby Databases, Ruby on Rails, JavaScript, React & Redux, Algorithms, Data Structures  @ Microverse
 
