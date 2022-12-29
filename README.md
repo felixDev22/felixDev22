@@ -3,10 +3,9 @@
  <br> I'm Felix N. Nyamai</h1>
 <h4 align="left">A Front-end developer from Nairobi, Kenya</h4>
 
-![](https://media.tenor.com/7Tu-pBzg0_kAAAAC/programming.gif)
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felixdev22&label=Profile%20views&color=0e75b6&style=flat" alt="felixdev22" /> </p>
+
+![](https://media.tenor.com/7Tu-pBzg0_kAAAAC/programming.gif)
 
 <hr>
 
