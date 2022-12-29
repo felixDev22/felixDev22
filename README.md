@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi 👋,
+<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
  <br> I'm Felix N. Nyamai</h1>
 <h4 align="left">A Front-end developer from Nairobi, Kenya</h4>
 
@@ -21,7 +21,7 @@
 
 <hr>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">:handshake: Connect with me:</h2>
 
 <p align="left"> <a href="https://twitter.com/@monzo200" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)" alt="@monzo200" /></a> <a href="https://www.linkedin.com/in/felixnyamai/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a> </p>
 
@@ -51,11 +51,6 @@
   <img src= "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" width="100" height="32"/>
  
  <img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="gitHub" width="110" height="32"/>
- 
- 
- 
- 
- 
 
 <p>
 
