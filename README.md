@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felixdev22" alt="felixdev22" /></a> </p>
 
 
-- 🌱  I’m currently learning HTML & CSS, Ruby Databases, Ruby on Rails, JavaScript, React & Redux, Algorithms, Data Structures  @ Microverse
+- 🌱  I’m currently learning HTML & CSS, Ruby Databases, Ruby on Rails, JavaScript, React & Redux, Algorithms, and Data Structures  @ Microverse
 
 - 👯  I’m looking to collaborate on HTML, CSS, and JS projects
 
