@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
- <br> I'm Felix N. Nyamai</h1>
+ <br> I'm Felix Nzomo Nyamai</h1>
 <h4 align="left">A Front-end developer from Nairobi, Kenya</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felixdev22&label=Profile%20views&color=0e75b6&style=flat" alt="felixdev22" /> </p>
