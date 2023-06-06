@@ -36,7 +36,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="108" height="32"/> </a>
 
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" width="100" height="32"/>
- <img src="https://img.shields.io/badge/ruby-%850014.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" width="100" height="32"/>
+ <img src="https://img.shields.io/badge/ruby-%23F24E1E.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" width="100" height="32"/>
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node" width="108" height="32"/> 
 
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="node" width="108" height="32"/>
