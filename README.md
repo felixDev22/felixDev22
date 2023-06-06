@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
  <br> I'm Felix Nzomo Nyamai</h1>
-<h4 align="left">A Front-end developer from Nairobi, Kenya</h4>
+<h4 align="left">A Full-Stack developer from Nairobi, Kenya</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felixdev22&label=Profile%20views&color=0e75b6&style=flat" alt="felixdev22" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 🌱  I’m currently learning HTML & CSS, Ruby Databases, Ruby on Rails, JavaScript, React & Redux, Algorithms, and Data Structures  @ Microverse
 
-- 👯  I’m looking to collaborate on HTML, CSS, and JS projects
+- 👯  open for a new job opportunity, see my [projects](https://deploy-preview-19--felix-portfolio-7f7ed5.netlify.app/)
 
 - 📫  How to reach me **felixnzomo@gmail.com**
 
