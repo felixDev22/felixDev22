@@ -9,9 +9,9 @@
 ![](https://media.tenor.com/7Tu-pBzg0_kAAAAC/programming.gif)
 
 <hr>
-<div align="right">
-<p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felixdev22" alt="felixdev22" /></a> </p>
-</div>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felixdev22" alt="felixdev22" /></a> </p>
+
 <div align="left">
 - 🌱  Aquired skills in:- HTML & CSS, Ruby Databases, Ruby on Rails, JavaScript, React & Redux, Algorithms, and Data Structures  @ Microverse
 
