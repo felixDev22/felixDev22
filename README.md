@@ -12,7 +12,7 @@
 
 - 🌱  Aquired skills in:- HTML & CSS, Ruby Databases, Ruby on Rails, JavaScript, React & Redux, Algorithms, and Data Structures at [Microverse](https://www.microverse.org/)
 
-- 👯  open for a new job opportunity, see my [projects](https://deploy-preview-19--felix-portfolio-7f7ed5.netlify.app/)
+- 👯  Open for a new job opportunity, see my [projects](https://deploy-preview-19--felix-portfolio-7f7ed5.netlify.app/)
 
 - 📫  How to reach me **felixnzomo@gmail.com**
 
