@@ -13,7 +13,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felixdev22" alt="felixdev22" /></a> </p>
 
 
-- 🌱  I’m currently learning HTML & CSS, Ruby Databases, Ruby on Rails, JavaScript, React & Redux, Algorithms, and Data Structures  @ Microverse
+- 🌱  Aquired skills in:- HTML & CSS, Ruby Databases, Ruby on Rails, JavaScript, React & Redux, Algorithms, and Data Structures  @ Microverse
 
 - 👯  open for a new job opportunity, see my [projects](https://deploy-preview-19--felix-portfolio-7f7ed5.netlify.app/)
 
