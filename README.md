@@ -17,11 +17,12 @@
 - 📫  How to reach me **felixnzomo@gmail.com**
 
 - ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<hr>
  <p align="left"> <a href="https://twitter.com/@monzo200" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)" alt="@monzo200" /></a> <a href="https://www.linkedin.com/in/felixnyamai/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a> </p>
 
 <hr>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felixdev22" alt="felixdev22" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felixdev22" alt="felixdev22" width="90" /></a> </p>
 
 <hr>
 
