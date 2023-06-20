@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
  <br> I'm Felix Nzomo Nyamai</h1>
 <h4 align="left">A Full-Stack developer from Nairobi, Kenya</h4>
-<p align="left">As a Full-Stack software developer, I have completed training at Microverse, specializing in both frontend and backend development. My passion for learning languages, frameworks, and new technologies has equipped me with the necessary skills to create dynamic web applications. Alongside my development expertise, I take pleasure in the creative process of designing websites and bringing them to life. </p>
+<p align="left">As a Full-Stack software developer, I have completed training at Microverse, specializing in both frontend and backend development. My passion for learning languages, frameworks, and new technologies has equipped me with the necessary skills to create dynamic web applications. Alongside my development expertise, I take pleasure in the creative process of designing websites and bringing them to life.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felixdev22&label=Profile%20views&color=0e75b6&style=flat" alt="felixdev22" /> </p>
 
