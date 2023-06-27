@@ -10,7 +10,7 @@
 
 <hr>
 
-- 🌱  Aquired skills in:- HTML & CSS, Ruby Databases, Ruby on Rails, JavaScript, React & Redux, Algorithms, and Data Structures at [Microverse](https://www.microverse.org/)
+- 🌱  Aquired skills in:- HTML & CSS, Ruby Databases, Ruby on Rails, JavaScript, React & Redux, Algorithms, and Data Structures @ [Microverse](https://www.microverse.org/)
 
 - 👯  Open for a new job opportunity, see my [projects](https://felixnzomo-portfolio.netlify.app/)
 
