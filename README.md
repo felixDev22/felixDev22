@@ -18,11 +18,20 @@
 
 <hr>
 
+<h3 align="left">Certificates & Licenses</h3>
+
+<p align="left">
+
+<a href=https://www.credential.net/916cdb98-72b9-4a2a-86a6-af85e9886296#gs.6si3al><img alt="bagde" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/62774122" width="108"/></a> <a href=https://www.credential.net/ac0103d2-fa82-47f4-87db-b9e4fd9b2240><img alt="bagde" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/65926219" width="108" /></a> <a href=https://www.credential.net/15bb4f56-2786-4e47-aee2-38b9ef759d85><img alt="bagde" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/68346434" width="108" /></a> <a href=https://www.credential.net/2cb0cae8-ceb6-4c5b-92b6-cc84f1e339c0#gs.6sizhq><img alt="bagde" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/71096259" width="108" /></a> <a href=https://www.credential.net/2394dc41-1cfd-471e-a2fc-59eafae78a2a#gs.6spcgj><img alt="bagde" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/73194349" width="108" /></a> <a href=https://www.credential.net/b4e4c988-2ed4-4829-8b0d-5c07685f9803#gs.6spn6i><img alt="bagde" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74440075" width="108" /></a> <a href=https://www.credential.net/51e889c1-ec5d-4dad-85cb-c0fdc5aac2ed#gs.6snb13><img alt="bagde" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/75814291" width="108" /></a>
+<p>
+
+<hr>
+
 - ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
  <p align="left"> <a href="https://twitter.com/@monzo200" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)" alt="@monzo200" /></a> <a href="https://www.linkedin.com/in/felixnyamai/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a> <a href="https://www.youtube.com/@LearnCodingWithFelix" target="_blank"><img src="https://img.shields.io/badge/youtube-%23E34F26.svg?style=for-the-badge&logo=youtube&logoColor=red)" alt="youtube" /></a>
  </p>
 
-
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -52,51 +61,13 @@
 </p>
 
 <hr>
-<h3 align="left">Certificates & Licenses</h3>
 
-[<img alt="bagde" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/62774122" />](https://www.credential.net/916cdb98-72b9-4a2a-86a6-af85e9886296#gs.6si3al)
-
-[<img alt="bagde" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/65926219" />](https://www.credential.net/ac0103d2-fa82-47f4-87db-b9e4fd9b2240)
-
-[<img alt="bagde" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/68346434" />](https://www.credential.net/15bb4f56-2786-4e47-aee2-38b9ef759d85)
-
-[<img alt="bagde" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/71096259" />](https://www.credential.net/2cb0cae8-ceb6-4c5b-92b6-cc84f1e339c0#gs.6sizhq)
-
-[<img alt="bagde" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/73194349" />](https://www.credential.net/2394dc41-1cfd-471e-a2fc-59eafae78a2a#gs.6spcgj)
-
-[<img alt="bagde" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74440075" />](https://www.credential.net/b4e4c988-2ed4-4829-8b0d-5c07685f9803#gs.6spn6i)
-
-[<img alt="bagde" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/75814291" />](https://www.credential.net/51e889c1-ec5d-4dad-85cb-c0fdc5aac2ed#gs.6snb13)
-
-</hr>
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felixdev22&" alt="felixdev22" /></p>
 
 <hr>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felixdev22" alt="felixdev22" /></a> </p>
 
 <hr>
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felixdev22&" alt="felixdev22" /></p>
-
 
 
