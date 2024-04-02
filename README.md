@@ -33,7 +33,7 @@
 
 <hr>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tools and Languages</h3>
 
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=whit" alt="html5" width="100"/> </a>
