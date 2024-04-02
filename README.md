@@ -28,7 +28,7 @@
 <hr>
 
 - ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
- <p align="left"> <a href="https://twitter.com/@monzo200" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)" alt="@monzo200" /></a> <a href="https://www.linkedin.com/in/felixnyamai/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a> <a href="https://www.youtube.com/@LearnCodingWithFelix" target="_blank"><img src="https://img.shields.io/badge/youtube-%23E34F26.svg?style=for-the-badge&logo=youtube&logoColor=red)" alt="youtube" /></a>
+ <p align="left"> <a href="https://twitter.com/@monzo200" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)" alt="@monzo200" /></a> <a href="https://www.linkedin.com/in/felixnyamai/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a> <a href="https://www.youtube.com/@LearnCodingWithFelix" target="blank"><img src="https://img.shields.io/badge/youtube-%23E34F26.svg?style=for-the-badge&logo=youtube&logoColor=red)" alt="youtube" /></a>
  </p>
 
 <hr>
